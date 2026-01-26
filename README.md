@@ -1,15 +1,71 @@
-# 💫 About Me:
-**Hi 👋, I’m Karthik Reddy**<br><br>💻 I am a Computer Science graduate and an aspiring Software Developer.  <br>🌱 Currently learning Full Stack Development and improving my problem-solving skills.  <br>⚙️ Skills: Python, Django, SQL, HTML, CSS, JavaScript  <br>📊 Interested in Backend Development, Databases, and Web Technologies.  <br>🎯 My goal is to build efficient, scalable applications and grow as a developer.  <br>📫 Reach me at: sasikarthik6303@gmail.com<br>
+# 👋 Hi, I’m Karthik Reddy
 
+💻 I am a Computer Science graduate and an aspiring Software Developer.  
+🌱 Currently learning Full Stack Development and improving my problem-solving skills.  
+⚙️ Skilled in Python, Django, SQL, HTML, CSS, and JavaScript.  
+📊 Interested in Backend Development, Databases, and Web Technologies.  
+🎯 My goal is to build efficient, scalable applications and grow as a professional developer.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sasi-karthik-reddy-yeddulaiahgari-9a6353296/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasikarthik6303@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthikreddyi12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=karthikreddyi12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddyi12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Skills & Technologies
+
+- **Programming Languages:** Python, JavaScript  
+- **Backend:** Django  
+- **Frontend:** HTML, CSS  
+- **Databases:** SQL (MySQL / PostgreSQL)  
+- **Tools:** Git, GitHub  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Django  
+- REST APIs  
+- Data Structures & Algorithms  
+- Full Stack Web Development  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Coding Habit Tracker
+A web application to track daily coding habits and maintain consistency.  
+**Tech Stack:** Python, Django, HTML, CSS, SQL
+
+### 🔹 Recipe Search Website
+A dynamic website that allows users to search and explore recipes.  
+**Tech Stack:** HTML, CSS, JavaScript
+
+### 🔹 To-Do List 
+A simple and efficient task management application.  
+**Tech Stack:** JavaScript,HTML, CSS
+
+### 🔹 Mountains Blogs Website
+A blogging platform focused on mountain travel and experiences.  
+**Tech Stack:** Django, HTML, CSS
+
+### 🔹 Crop Recommendation System (Machine Learning)
+A machine learning model that recommends suitable crops based on soil and climate data.  
+**Tech Stack:** Python, Machine Learning
+
+### 🔹 Age and Gender Detection System
+A computer vision–based system to detect age and gender from images.  
+**Tech Stack:** Python, Machine Learning
+
+### 🔹 Fraud Detection for E-commerce Transactions
+A machine learning-based system to identify fraudulent transactions in e-commerce platforms.  
+**Tech Stack:** Python, Machine Learning
+
+---
+
+## 📫 Contact Me
+
+- Email: sasikarthik6303@gmail.com  
+- GitHub: https://github.com/karthikreddyi12
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
