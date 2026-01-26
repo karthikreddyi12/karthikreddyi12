@@ -63,6 +63,7 @@ A machine learning-based system to identify fraudulent transactions in e-commerc
 
 - Email: sasikarthik6303@gmail.com  
 - GitHub: https://github.com/karthikreddyi12
+- LinkedIn: https://www.linkedin.com/in/sasi-karthik-reddy-yeddulaiahgari-9a6353296/
 
 ---
 
